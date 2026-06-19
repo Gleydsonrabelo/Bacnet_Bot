@@ -1,0 +1,32 @@
+# Ambiente Virtual e Cache do Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configurações de credenciais e tokens (Altamente Crítico!)
+.env
+authorized_users.json
+devices.json
+
+# Planilhas, Manuais e Relatórios Físicos (Segurança de Informações da Empresa)
+*.xlsx
+*.xls
+*.pdf
+*.docm
+*.docx
+
+# Arquivos de configurações da IDE
+.idea/
+.vscode/
+*.iml
+
+# Pastas de downloads e imagens locais
+drive-download-*/
+*.jpg
+*.jpeg
+*.png
+*.gif
+
